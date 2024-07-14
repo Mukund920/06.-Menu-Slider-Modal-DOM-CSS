@@ -24,3 +24,7 @@ This landing page project demonstrates the use of HTML, CSS, and JavaScript to c
 
 **Showing and Hiding the Modal**
 - The modal is shown when the "Sign Up" button is clicked, and hidden when the close button or any area outside the modal is clicked. This is handled by adding and removing the show-modal class to the modal container.
+  
+![menu slide](https://github.com/user-attachments/assets/2c665738-a5f0-4356-8ca3-6e1c15a472f8)
+
+
