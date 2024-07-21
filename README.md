@@ -9,15 +9,6 @@ This landing page project demonstrates the use of HTML, CSS, and JavaScript to c
 - A modal popup form for user sign-up.
 - Styled with CSS and enhanced with Font Awesome icons.
 
-## Setup and Usage
-
-1. **Clone the Repository**
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-
-2. **Open index.html in Your Browser**
-   You can simply open the index.html file in your browser to see the landing page in action.
-
 ## How It Works
 **Toggling the Navigation Sidebar** 
 - The navigation sidebar is toggled using JavaScript. When the toggle button is clicked, the show-nav class is added or removed from the body element, which shifts the page content to the right, revealing the sidebar.
